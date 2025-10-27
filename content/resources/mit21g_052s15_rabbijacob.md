@@ -6,8 +6,6 @@ description: 'Draft manuscript of Michael Mulvey''s article: "What''s so Funny a
 file: /courses/21g-052-french-film-classics-spring-2015/98cab31c9a67e24ac38fe14915f5cbbb_MIT21G_052S15_RabbiJacob.pdf
 file_size: 530060
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
